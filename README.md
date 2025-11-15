@@ -29,9 +29,9 @@ Connect to your Instance:
 • Once the instance is running, you can connect to it using SSH (for Linux) or RDP (for Windows). • Use the key pair you downloaded earlier to connect.
 
 # output
-<img width="1142" height="604" alt="image" src="https://github.com/user-attachments/assets/d65f4f7b-701c-4757-9214-c4ee68a8f31b" />
+<img width="960" height="483" alt="image" src="https://github.com/user-attachments/assets/3b8993d8-7736-4f13-816b-ef0eac669639" />
 
-<img width="1151" height="633" alt="image" src="https://github.com/user-attachments/assets/648cccd7-e6c6-4fa8-a8ca-a52d1e4c5186" />
+<img width="957" height="475" alt="image" src="https://github.com/user-attachments/assets/c0dcd27c-05ec-49ca-88fa-b050515704f9" />
 
 <img width="1152" height="593" alt="image" src="https://github.com/user-attachments/assets/efa940ab-f5f9-421b-be5e-ccac608865e0" />
 
